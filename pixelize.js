@@ -56,7 +56,7 @@ let i = setInterval(() => {
       }
     }
   }
-}, 20)
+}, 10)
 
 function onChangeFile() {
   isInitialize = false
