@@ -1,5 +1,5 @@
 # ANORMALIZE
-
+<img src="https://github.com/summercorp/pixelize.js/blob/master/2019-03-21%2022_25_46.gif?raw=true" />
 에이노멀 사진 편집을 도와주는 라이브러리 입니다.
 
 기본적으로 tui-image-editor 라이브러리를 기반으로 개발되었습니다.
